@@ -221,3 +221,346 @@
 2024-03-29 10:43:04 INFO  Demo Web Shop:30 - Login to submit clicked
 2024-03-29 10:43:06 INFO  Demo Web Shop:35 - Title found
 2024-03-29 10:43:06 INFO  Demo Web Shop:47 - Login successful
+2024-03-29 19:27:40 INFO  Web Demo Shop:44 - Registration button clicked
+2024-03-29 19:27:40 INFO  Web Demo Shop:47 - Gender selected
+2024-03-29 19:27:40 INFO  Web Demo Shop:49 - First name entered
+2024-03-29 19:27:40 INFO  Web Demo Shop:51 - Last name entered
+2024-03-29 19:27:40 INFO  Web Demo Shop:55 - Email entered
+2024-03-29 19:27:40 INFO  Web Demo Shop:57 - Password entered
+2024-03-29 19:27:40 INFO  Web Demo Shop:59 - Password confirmed
+2024-03-29 19:27:41 INFO  Web Demo Shop:61 - Clicked registration for submission
+2024-03-29 19:27:41 INFO  Web Demo Shop:66 - Registration completed successfully
+2024-03-29 19:27:47 INFO  Demo Web Shop:67 - Catagory items are matching
+2024-03-29 19:27:47 INFO  Demo Web Shop:18 - URL is opened
+2024-03-29 19:27:47 INFO  Demo Web Shop:23 - Login button clicked
+2024-03-29 19:27:49 INFO  Demo Web Shop:26 - Email entered
+2024-03-29 19:27:50 INFO  Demo Web Shop:28 - Password entered
+2024-03-29 19:27:50 INFO  Demo Web Shop:30 - Login to submit clicked
+2024-03-29 19:27:52 INFO  Demo Web Shop:35 - Title found
+2024-03-29 19:27:52 INFO  Demo Web Shop:47 - Login successful
+2024-03-30 11:23:36 INFO  Demo Web Shop:18 - URL is opened
+2024-03-30 11:23:37 INFO  Demo Web Shop:23 - Login button clicked
+2024-03-30 11:23:39 INFO  Demo Web Shop:26 - Email entered
+2024-03-30 11:23:39 INFO  Demo Web Shop:28 - Password entered
+2024-03-30 11:23:40 INFO  Demo Web Shop:30 - Login to submit clicked
+2024-03-30 11:23:42 INFO  Demo Web Shop:35 - Title found
+2024-03-30 11:23:42 INFO  Demo Web Shop:47 - Login successful
+2024-03-30 11:23:42 INFO  Demo Web Shop:21 - Looged in to WDS
+2024-03-30 11:23:45 INFO  Demo Web Shop:25 - Book button clicked
+2024-03-30 11:23:47 INFO  Demo Web Shop:29 - Search item entered
+2024-03-30 11:23:50 INFO  Demo Web Shop:33 - Search button clicked
+2024-03-30 11:23:53 INFO  Demo Web Shop:37 - Computing and internet clicked
+2024-03-30 11:23:55 INFO  Demo Web Shop:41 - Add to cart clicked
+2024-03-30 11:23:58 INFO  Demo Web Shop:46 - Mouse hovered on Shopping cart
+2024-03-30 11:24:00 INFO  Demo Web Shop:50 - Shopping cart clicked
+2024-03-30 11:28:29 INFO  Demo Web Shop:18 - URL is opened
+2024-03-30 11:28:30 INFO  Demo Web Shop:23 - Login button clicked
+2024-03-30 11:28:32 INFO  Demo Web Shop:26 - Email entered
+2024-03-30 11:28:32 INFO  Demo Web Shop:28 - Password entered
+2024-03-30 11:28:33 INFO  Demo Web Shop:30 - Login to submit clicked
+2024-03-30 11:28:35 INFO  Demo Web Shop:35 - Title found
+2024-03-30 11:28:35 INFO  Demo Web Shop:47 - Login successful
+2024-03-30 11:28:35 INFO  Demo Web Shop:22 - Looged in to WDS
+2024-03-30 11:28:38 INFO  Demo Web Shop:26 - Book button clicked
+2024-03-30 11:28:40 INFO  Demo Web Shop:30 - Search item entered
+2024-03-30 11:28:42 INFO  Demo Web Shop:34 - Search button clicked
+2024-03-30 11:28:45 INFO  Demo Web Shop:38 - Computing and internet clicked
+2024-03-30 11:28:47 INFO  Demo Web Shop:42 - Add to cart clicked
+2024-03-30 11:28:49 INFO  Demo Web Shop:47 - Mouse hovered on Shopping cart
+2024-03-30 11:28:52 INFO  Demo Web Shop:51 - Shopping cart clicked
+2024-03-30 11:28:54 INFO  Demo Web Shop:57 - Country selected
+2024-03-30 11:28:56 INFO  Demo Web Shop:63 - State selected
+2024-03-30 11:28:58 INFO  Demo Web Shop:67 - Agreement checked
+2024-03-30 11:29:01 INFO  Demo Web Shop:71 - Checkout clicked
+2024-03-30 11:32:50 INFO  Demo Web Shop:18 - URL is opened
+2024-03-30 11:32:50 INFO  Demo Web Shop:23 - Login button clicked
+2024-03-30 11:32:52 INFO  Demo Web Shop:26 - Email entered
+2024-03-30 11:32:53 INFO  Demo Web Shop:28 - Password entered
+2024-03-30 11:32:53 INFO  Demo Web Shop:30 - Login to submit clicked
+2024-03-30 11:32:55 INFO  Demo Web Shop:35 - Title found
+2024-03-30 11:32:55 INFO  Demo Web Shop:47 - Login successful
+2024-03-30 11:32:55 INFO  Demo Web Shop:22 - Looged in to WDS
+2024-03-30 11:32:58 INFO  Demo Web Shop:26 - Book button clicked
+2024-03-30 11:33:00 INFO  Demo Web Shop:30 - Search item entered
+2024-03-30 11:33:03 INFO  Demo Web Shop:34 - Search button clicked
+2024-03-30 11:33:05 INFO  Demo Web Shop:38 - Computing and internet clicked
+2024-03-30 11:33:08 INFO  Demo Web Shop:42 - Add to cart clicked
+2024-03-30 11:33:10 INFO  Demo Web Shop:47 - Mouse hovered on Shopping cart
+2024-03-30 11:33:12 INFO  Demo Web Shop:51 - Shopping cart clicked
+2024-03-30 11:33:14 INFO  Demo Web Shop:57 - Country selected
+2024-03-30 11:33:17 INFO  Demo Web Shop:63 - State selected
+2024-03-30 11:33:19 INFO  Demo Web Shop:67 - Agreement checked
+2024-03-30 11:33:22 INFO  Demo Web Shop:71 - Checkout clicked
+2024-03-30 11:33:24 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2024-03-30 11:33:24 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2024-03-30 11:33:24 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2024-03-30 11:33:24 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2024-03-30 11:33:24 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2024-03-30 11:33:24 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2024-03-30 11:33:24 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2024-03-30 11:33:24 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2024-03-30 11:33:24 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2024-03-30 11:33:24 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2024-03-30 11:33:24 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2024-03-30 11:33:24 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2024-03-30 11:33:24 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2024-03-30 11:33:24 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2024-03-30 11:33:24 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2024-03-30 11:33:24 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2024-03-30 11:33:24 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2024-03-30 11:33:24 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2024-03-30 11:33:24 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2024-03-30 11:33:24 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2024-03-30 11:33:24 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2024-03-30 11:33:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2024-03-30 11:33:24 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2024-03-30 11:44:50 INFO  Demo Web Shop:18 - URL is opened
+2024-03-30 11:44:51 INFO  Demo Web Shop:23 - Login button clicked
+2024-03-30 11:44:53 INFO  Demo Web Shop:26 - Email entered
+2024-03-30 11:44:53 INFO  Demo Web Shop:28 - Password entered
+2024-03-30 11:44:53 INFO  Demo Web Shop:30 - Login to submit clicked
+2024-03-30 11:44:55 INFO  Demo Web Shop:35 - Title found
+2024-03-30 11:44:55 INFO  Demo Web Shop:47 - Login successful
+2024-03-30 11:44:55 INFO  Demo Web Shop:22 - Looged in to WDS
+2024-03-30 11:44:58 INFO  Demo Web Shop:26 - Book button clicked
+2024-03-30 11:45:00 INFO  Demo Web Shop:30 - Search item entered
+2024-03-30 11:45:03 INFO  Demo Web Shop:34 - Search button clicked
+2024-03-30 11:45:07 INFO  Demo Web Shop:38 - Computing and internet clicked
+2024-03-30 11:45:09 INFO  Demo Web Shop:42 - Add to cart clicked
+2024-03-30 11:45:11 INFO  Demo Web Shop:47 - Mouse hovered on Shopping cart
+2024-03-30 11:45:14 INFO  Demo Web Shop:51 - Shopping cart clicked
+2024-03-30 11:45:16 INFO  Demo Web Shop:57 - Country selected
+2024-03-30 11:45:18 INFO  Demo Web Shop:63 - State selected
+2024-03-30 11:45:20 INFO  Demo Web Shop:67 - Agreement checked
+2024-03-30 11:45:23 INFO  Demo Web Shop:71 - Checkout clicked
+2024-03-30 11:45:25 INFO  Demo Web Shop:75 - Clicked billing address continue
+2024-03-30 11:45:27 INFO  Demo Web Shop:79 - Clicked shipping address continue
+2024-03-30 11:45:29 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:45:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2024-03-30 11:45:30 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2024-03-30 11:45:30 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2024-03-30 11:45:30 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2024-03-30 11:45:30 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2024-03-30 11:45:30 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2024-03-30 11:45:30 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2024-03-30 11:45:30 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2024-03-30 11:45:30 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2024-03-30 11:45:30 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2024-03-30 11:45:30 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2024-03-30 11:45:30 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2024-03-30 11:45:30 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2024-03-30 11:45:30 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2024-03-30 11:45:30 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2024-03-30 11:45:30 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2024-03-30 11:45:30 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2024-03-30 11:45:30 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2024-03-30 11:45:30 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2024-03-30 11:45:30 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2024-03-30 11:45:30 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2024-03-30 11:45:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2024-03-30 11:45:30 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2024-03-30 11:50:51 INFO  Demo Web Shop:18 - URL is opened
+2024-03-30 11:50:51 INFO  Demo Web Shop:23 - Login button clicked
+2024-03-30 11:50:54 INFO  Demo Web Shop:26 - Email entered
+2024-03-30 11:50:54 INFO  Demo Web Shop:28 - Password entered
+2024-03-30 11:50:54 INFO  Demo Web Shop:30 - Login to submit clicked
+2024-03-30 11:50:56 INFO  Demo Web Shop:35 - Title found
+2024-03-30 11:50:57 INFO  Demo Web Shop:47 - Login successful
+2024-03-30 11:50:57 INFO  Demo Web Shop:22 - Looged in to WDS
+2024-03-30 11:50:59 INFO  Demo Web Shop:26 - Book button clicked
+2024-03-30 11:51:01 INFO  Demo Web Shop:30 - Search item entered
+2024-03-30 11:51:04 INFO  Demo Web Shop:34 - Search button clicked
+2024-03-30 11:51:08 INFO  Demo Web Shop:38 - Computing and internet clicked
+2024-03-30 11:51:10 INFO  Demo Web Shop:42 - Add to cart clicked
+2024-03-30 11:51:12 INFO  Demo Web Shop:47 - Mouse hovered on Shopping cart
+2024-03-30 11:51:15 INFO  Demo Web Shop:51 - Shopping cart clicked
+2024-03-30 11:51:17 INFO  Demo Web Shop:57 - Country selected
+2024-03-30 11:51:19 INFO  Demo Web Shop:63 - State selected
+2024-03-30 11:51:21 INFO  Demo Web Shop:67 - Agreement checked
+2024-03-30 11:51:24 INFO  Demo Web Shop:71 - Checkout clicked
+2024-03-30 11:51:26 INFO  Demo Web Shop:75 - Clicked billing address continue
+2024-03-30 11:51:29 INFO  Demo Web Shop:79 - Clicked shipping address continue
+2024-03-30 11:51:31 INFO  Demo Web Shop:83 - Check shipping method as Ground
+2024-03-30 11:51:33 INFO  Demo Web Shop:87 - Clicked shipping method continue
+2024-03-30 11:51:35 INFO  Demo Web Shop:91 - Checked payment method as cash
+2024-03-30 11:51:37 INFO  Demo Web Shop:95 - Clicked payment method continue
+2024-03-30 11:51:39 INFO  Demo Web Shop:99 - Clicked payment information continue
+2024-03-30 11:51:41 INFO  Demo Web Shop:103 - Clicked conform order
+2024-03-30 11:51:43 INFO  Demo Web Shop:112 - Order could not be processed
+2024-03-30 11:51:43 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:51:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2024-03-30 11:51:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2024-03-30 11:51:43 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2024-03-30 11:51:44 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2024-03-30 11:51:44 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2024-03-30 11:51:44 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2024-03-30 11:51:44 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2024-03-30 11:51:44 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2024-03-30 11:51:44 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2024-03-30 11:51:44 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2024-03-30 11:51:44 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2024-03-30 11:51:44 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2024-03-30 11:51:44 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2024-03-30 11:51:44 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2024-03-30 11:51:44 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2024-03-30 11:51:44 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2024-03-30 11:51:44 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2024-03-30 11:51:44 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2024-03-30 11:51:44 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2024-03-30 11:51:44 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2024-03-30 11:51:44 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2024-03-30 11:51:44 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2024-03-30 11:51:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2024-03-30 11:51:44 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2024-03-30 11:57:48 INFO  Demo Web Shop:67 - Catagory items are matching
+2024-03-30 11:57:48 INFO  Demo Web Shop:18 - URL is opened
+2024-03-30 11:57:49 INFO  Demo Web Shop:23 - Login button clicked
+2024-03-30 11:57:51 INFO  Demo Web Shop:26 - Email entered
+2024-03-30 11:57:51 INFO  Demo Web Shop:28 - Password entered
+2024-03-30 11:57:52 INFO  Demo Web Shop:30 - Login to submit clicked
+2024-03-30 11:57:54 INFO  Demo Web Shop:35 - Title found
+2024-03-30 11:57:54 INFO  Demo Web Shop:47 - Login successful
+2024-03-30 11:58:04 INFO  Web Demo Shop:44 - Registration button clicked
+2024-03-30 11:58:04 INFO  Web Demo Shop:47 - Gender selected
+2024-03-30 11:58:04 INFO  Web Demo Shop:49 - First name entered
+2024-03-30 11:58:04 INFO  Web Demo Shop:51 - Last name entered
+2024-03-30 11:58:04 INFO  Web Demo Shop:55 - Email entered
+2024-03-30 11:58:04 INFO  Web Demo Shop:57 - Password entered
+2024-03-30 11:58:04 INFO  Web Demo Shop:59 - Password confirmed
+2024-03-30 11:58:05 INFO  Web Demo Shop:61 - Clicked registration for submission
+2024-03-30 11:58:05 INFO  Web Demo Shop:66 - Registration completed successfully
+2024-03-30 11:58:10 INFO  Demo Web Shop:18 - URL is opened
+2024-03-30 11:58:11 INFO  Demo Web Shop:23 - Login button clicked
+2024-03-30 11:58:13 INFO  Demo Web Shop:26 - Email entered
+2024-03-30 11:58:13 INFO  Demo Web Shop:28 - Password entered
+2024-03-30 11:58:14 INFO  Demo Web Shop:30 - Login to submit clicked
+2024-03-30 11:58:16 INFO  Demo Web Shop:35 - Title found
+2024-03-30 11:58:16 INFO  Demo Web Shop:47 - Login successful
+2024-03-30 11:58:16 INFO  Demo Web Shop:23 - Looged in to WDS
+2024-03-30 11:58:19 INFO  Demo Web Shop:27 - Book button clicked
+2024-03-30 11:58:21 INFO  Demo Web Shop:31 - Search item entered
+2024-03-30 11:58:23 INFO  Demo Web Shop:35 - Search button clicked
+2024-03-30 11:58:27 INFO  Demo Web Shop:39 - Computing and internet clicked
+2024-03-30 11:58:29 INFO  Demo Web Shop:43 - Add to cart clicked
+2024-03-30 11:58:31 INFO  Demo Web Shop:48 - Mouse hovered on Shopping cart
+2024-03-30 11:58:34 INFO  Demo Web Shop:52 - Shopping cart clicked
+2024-03-30 11:58:36 INFO  Demo Web Shop:58 - Country selected
+2024-03-30 11:58:38 INFO  Demo Web Shop:64 - State selected
+2024-03-30 11:58:40 INFO  Demo Web Shop:68 - Agreement checked
+2024-03-30 11:58:43 INFO  Demo Web Shop:72 - Checkout clicked
+2024-03-30 11:58:45 INFO  Demo Web Shop:76 - Clicked billing address continue
+2024-03-30 11:58:47 INFO  Demo Web Shop:80 - Clicked shipping address continue
+2024-03-30 11:58:49 INFO  Demo Web Shop:84 - Check shipping method as Ground
+2024-03-30 11:58:51 INFO  Demo Web Shop:88 - Clicked shipping method continue
+2024-03-30 11:58:53 INFO  Demo Web Shop:92 - Checked payment method as cash
+2024-03-30 11:58:56 INFO  Demo Web Shop:96 - Clicked payment method continue
+2024-03-30 11:58:58 INFO  Demo Web Shop:100 - Clicked payment information continue
+2024-03-30 11:59:00 INFO  Demo Web Shop:104 - Clicked confirm order
+2024-03-30 11:59:02 INFO  Demo Web Shop:114 - Order could not be processed
+2024-03-30 11:59:02 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2024-03-30 11:59:02 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2024-03-30 11:59:02 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2024-03-30 11:59:02 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2024-03-30 11:59:02 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2024-03-30 11:59:02 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2024-03-30 11:59:02 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2024-03-30 11:59:02 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2024-03-30 11:59:02 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2024-03-30 11:59:02 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2024-03-30 11:59:02 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2024-03-30 11:59:02 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2024-03-30 11:59:02 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-30 11:59:02 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-30 11:59:02 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2024-03-30 11:59:02 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2024-03-30 11:59:02 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2024-03-30 11:59:02 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2024-03-30 11:59:02 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2024-03-30 11:59:02 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2024-03-30 11:59:02 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2024-03-30 11:59:02 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2024-03-30 11:59:02 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2024-03-30 11:59:02 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2024-03-30 11:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2024-03-30 11:59:02 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/shari/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"

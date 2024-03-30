@@ -7,8 +7,9 @@
    <test name="Web Demo Shop Functional Test">
 	   <parameter name="browser" value="chrome"/>
     <classes>
-     	<class name="com.WebDemoShopTestNG.testCases.TC_Registration_001"/>
-       <class name="com.WebDemoShopTestNG.testCases.TC_Login_001"/>
+		<class name="com.WebDemoShopTestNG.testCases.TC_Login_001"/>
+   		<class name="com.WebDemoShopTestNG.testCases.TC_Registration_001"/>
+       	<class name="com.WebDemoShopTestNG.testCases.TC_PurchaseBooks_001"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

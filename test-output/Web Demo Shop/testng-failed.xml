@@ -7,13 +7,13 @@
   <test thread-count="5" name="Web Demo Shop Functional Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.WebDemoShopTestNG.testCases.TC_Login_001">
+      <class name="com.WebDemoShopTestNG.testCases.TC_PurchaseBooks_001">
         <methods>
           <include name="setUp"/>
           <include name="tearDown"/>
-          <include name="loginTest"/>
+          <include name="e2eBookPurchase"/>
         </methods>
-      </class> <!-- com.WebDemoShopTestNG.testCases.TC_Login_001 -->
+      </class> <!-- com.WebDemoShopTestNG.testCases.TC_PurchaseBooks_001 -->
     </classes>
   </test> <!-- Web Demo Shop Functional Test(failed) -->
 </suite> <!-- Failed suite [Web Demo Shop] -->
